@@ -1,2 +1,2 @@
-# NCClient
-Scripts for NCClient
+# NCClient-Scripts
+Scripts for the Python library
